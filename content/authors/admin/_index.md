@@ -1,8 +1,8 @@
 ---
 title: Huifeng (Kent) Wu
 role: Senior Student at University of Toronto
-<!-- bio: My research interests include distributed robotics, mobile computing and
-  programmable matter. -->
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:john@example.com
+    link: mailto:kentwhf@gmail.com
 <!--   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen -->
@@ -36,6 +36,6 @@ superuser: true
 highlight_name: false
 ---
 
-I am a fourth-year student at the University of Toronto, specializing in computer science and statistics. I've worked in the labs of <a href="https://cglee.mie.utoronto.ca/">Chi-Gun Lee<\a>, <a href="https://utstat.toronto.edu/pesenti/">Silvana Pesenti</a>, <a href="https://nefros.net/about-us/dr-istvan-mucsi-md-phd/">Istvan Mucsi</a> and <a href="https://bme.utoronto.ca/faculty-research/cross-appointed/atena-roshan-fekr/">Atena Roshan Fekr</a>. You are welcome to reach out if you have a similar interest.
+I am a fourth-year student at the University of Toronto, specializing in computer science and statistics. I've worked in the labs of [Chi-Gun Lee] ("https://cglee.mie.utoronto.ca/"), [Silvana Pesenti]("https://utstat.toronto.edu/pesenti/"), [Istvan Mucsi]("https://nefros.net/about-us/dr-istvan-mucsi-md-phd/") and [Atena Roshan Fekr]("https://bme.utoronto.ca/faculty-research/cross-appointed/atena-roshan-fekr/"). You are welcome to reach out if you have a similar interest.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
