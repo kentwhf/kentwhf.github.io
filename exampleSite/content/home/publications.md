@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Recent Writing
 subtitle: ''
 
 content:
@@ -37,5 +37,3 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-{{% /callout %}}
