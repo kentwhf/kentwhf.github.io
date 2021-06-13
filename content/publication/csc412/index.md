@@ -25,7 +25,7 @@ publication_types: ["4"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Music composition with complex models has received more attention in recent years, fuelled by the rising interests in algorithmic art creations. This project aims to generate polyphonic melodies with a linguistic approach, comparing performance between variants of hidden Markov models (HMM) and an Encoder-Decoder network that uses long-short term memory (LSTM) cells, which are commonlyn used in language generation tasks. The main objective of this project is to construct pleasant melodies that sound indistinguishable from human-composed ones. The project evaluates the models’ performance by both quantitative and qualitative measures and discusses possible areas for explorations.
 
 # Summary. An optional shortened abstract.
 summary: This report explores using hidden Markov models and Long-Short Term Memory Encoder-Decoder network to construct pleasant melodies that sound indistinguishable from human composition
