@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: kentwhf@gmail.com
+    link: [mailto](mailto:kentwhf@gmail.com)
   - icon: github
     icon_pack: fab
     link: https://github.com/kentwhf
