@@ -1,7 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Evaluation of Generative Architectures for Music Generation"
 authors:
-- admin
+authors:
+  - Qien Song
+  - Fengkai Ye
+  - Huifeng Wu 
+author_notes:
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -21,23 +28,15 @@ publication_short: ""
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: This report explores using hidden Markov models and Long-Short Term Memory Encoder-Decoder network to construct pleasant melodies that sound indistinguishable from human composition
 tags:
-- Source Themes
+- Machine Learning
+- Computational Music
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: ''
+url_project: 'https://github.com/johnsoong216/Music-Sequence-Generation'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
