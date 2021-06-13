@@ -1,49 +1,41 @@
 ---
 title: Huifeng (Kent) Wu
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Senior Student at University of Toronto
+<!-- bio: My research interests include distributed robotics, mobile computing and
+  programmable matter. -->
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Mathematical Finance
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
+    link: mailto:john@example.com
+<!--   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
+    link: https://twitter.com/GeorgeCushen -->
+<!--   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kentwhf
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kentwhf/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Toronto
+    url: https://www.utoronto.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc in Computer Science and Applied Statistics
+      institution: University of Toronto
+      year: 2021
+email: "kentwhf@gmail.com"
 superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a fourth-year student at the University of Toronto, specializing in computer science and statistics. I've worked in the labs of <a href="https://cglee.mie.utoronto.ca/">Chi-Gun Lee<\a>, <a href="https://utstat.toronto.edu/pesenti/">Silvana Pesenti</a>, <a href="https://nefros.net/about-us/dr-istvan-mucsi-md-phd/">Istvan Mucsi</a> and <a href="https://bme.utoronto.ca/faculty-research/cross-appointed/atena-roshan-fekr/">Atena Roshan Fekr</a>. You are welcome to reach out if you have a similar interest.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
