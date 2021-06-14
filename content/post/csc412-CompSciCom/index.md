@@ -129,7 +129,7 @@ Although it is called importance sampling, it is more of an approximation algori
 
 ### Another Example
 
-We will show an example how importance sampling could be useful when it comes to rare events. For the case of normalized density, we need to define a proposal density $q(x)$ and involve ${w}_{r}=\frac{{p}\left(x^{(r)}\right)}{{q}\left(x^{(r)}\right)}$. Our estimation becomes as follows, 
+We will show an example how importance sampling could be useful when it comes to rare events. For the case of normalized density, we need to define a proposal density $q(x)$ and involve $w_{r}=\frac{p\left(x^{(r)}\right)}{q\left(x^{(r)}\right)}$. Our estimation becomes as follows, 
 $$
 \begin{aligned}
 \frac{1}{R} \sum_{r=1}^{R} \phi\left(x^{(r)}\right) \frac{p\left(x^{(r)}\right)}{q\left(x^{(r)}\right)} \rightarrow 
