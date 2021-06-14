@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Slip-induced falls are among the most common causes of major occupational injuries and economic loss in Canada. Identifying the risk factors associated with slip events is key to developing preventive solutions to reduce falls. One factor is the slip-resistance quality of footwear, which is fundamental to reducing the number of falls. Measuring footwear slip resistance with the recently developed Maximum Achievable Angle (MAA) test requires a trained researcher to identify slip events in a simulated winter environment. The human capacity for information processing is limited and human error is natural, especially in a cold environment. 
+abstract: Slip-induced falls are among the most common causes of major occupational injuries and economic loss in Canada. Identifying the risk factors associated with slip events is key to developing preventive solutions to reduce falls. 
 # Summary. An optional shortened abstract.
 summary:""
 tags:
