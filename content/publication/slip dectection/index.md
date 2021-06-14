@@ -8,7 +8,7 @@ authors:
 - Atena Roshan Fek 
 author_notes:
 date: "2021-09-01T00:00:00Z"
-doi: "https://doi.org/10.3390/s20236883"
+doi: "doi.org/10.3390/s20236883"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
