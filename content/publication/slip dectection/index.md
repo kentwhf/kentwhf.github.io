@@ -32,7 +32,6 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://www.mdpi.com/1424-8220/20/23/6883"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
