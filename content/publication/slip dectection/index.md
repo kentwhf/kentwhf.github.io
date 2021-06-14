@@ -1,16 +1,16 @@
 ---
-title: "Deep Neural Network for Slip Detection on Ice Surface"
+title: "An example journal article"
 authors:
-- Kent Wu
-- Suzy He
-- Geoff Fernie
-- Atena Roshan Fekr
-
+- admin
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Slip-induced falls are among the most common causes of major occupational injuries and economic loss in Canada. Identifying the risk factors associated with slip events is key to developing preventive solutions to reduce falls. One factor is the slip-resistance quality of footwear, which is fundamental to reducing the number of falls. Measuring footwear slip resistance with the recently developed Maximum Achievable Angle (MAA) test requires a trained researcher to identify slip events in a simulated winter environment. The human capacity for information processing is limited and human error is natural, especially in a cold environment. Therefore, to remove conflicts associated with human errors, in this paper a deep three-dimensional convolutional neural network is proposed to detect the slips in real-time. The model has been trained by a new dataset that includes data from 18 different participants with various clothing, footwear, walking directions, inclined angles, and surface types. The model was evaluated on three types of slips: Maxi-slip, midi-slip, and mini-slip. This classification is based on the slip perception and recovery of the participants. The model was evaluated based on both 5-fold and Leave-One-Subject-Out (LOSO) cross validation. The best accuracy of 97% was achieved when identifying the maxi-slips. The minimum accuracy of 77% was achieved when classifying the no-slip and mini-slip trials. The overall slip detection accuracy was 86% with sensitivity and specificity of 81% and 91%, respectively. The overall accuracy dropped by about 2% in LOSO cross validation. The proposed slip detection algorithm is not only beneficial for footwear manufactures to improve their footwear slip resistance quality, but it also has other potential applications, such as improving the slip resistance properties of flooring in healthcare facilities, commercial kitchens, and oil drilling platforms.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
