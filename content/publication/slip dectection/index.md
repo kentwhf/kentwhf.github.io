@@ -28,12 +28,13 @@ abstract: Slip-induced falls are among the most common causes of major occupatio
 summary: ""
 
 tags:
-- Source Themes
+- Deep Learning
+- Slip Detection
 featured: false
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://www.mdpi.com/1424-8220/20/23/6883"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
