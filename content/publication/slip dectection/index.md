@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Deep Neural Network for Slip Detection on Ice Surface"
 authors:
 - Kent Wu
 - Suzy He
@@ -33,7 +33,6 @@ featured: false
 # links:
 # - name: ""
 url: "https://www.mdpi.com/1424-8220/20/23/6883"
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
 
 
 # Featured image
@@ -55,7 +54,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: ""
 ---
 
 {{% callout note %}}
