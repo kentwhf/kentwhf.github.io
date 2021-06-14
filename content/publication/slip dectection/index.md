@@ -7,7 +7,7 @@ authors:
 - Geoff Fernie 
 - Atena Roshan Fek 
 date: "2020-09-01T00:00:00Z"
-doi: "doi.org/10.3390/s20236883"
+doi: "https://doi.org/10.3390/s20236883"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
@@ -32,15 +32,7 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url: "https://www.mdpi.com/1424-8220/20/23/6883"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
