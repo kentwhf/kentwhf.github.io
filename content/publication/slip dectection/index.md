@@ -25,7 +25,7 @@ publication_short: ""
 
 abstract: Slip-induced falls are among the most common causes of major occupational injuries and economic loss in Canada. Identifying the risk factors associated with slip events is key to developing preventive solutions to reduce falls. One factor is the slip-resistance quality of footwear, which is fundamental to reducing the number of falls. Measuring footwear slip resistance with the recently developed Maximum Achievable Angle (MAA) test requires a trained researcher to identify slip events in a simulated winter environment. The human capacity for information processing is limited and human error is natural, especially in a cold environment. Therefore, to remove conflicts associated with human errors, in this paper a deep three-dimensional convolutional neural network is proposed to detect the slips in real-time. 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Deep Learning
@@ -33,8 +33,16 @@ tags:
 featured: false
 
 # links:
+# - name: ""
+#   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -55,7 +63,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
