@@ -6,7 +6,7 @@ bio: My research interests include machine learning and
 interests:
   - Artificial Intelligence
   - Reinforcement Learning
-  - Mathematical Finance
+  - Quantitative Modelling
 social:
   - icon: github
     icon_pack: fab
