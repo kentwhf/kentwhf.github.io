@@ -229,7 +229,7 @@ To efficiently tackle the decryption task, scientists proposed MCMC to model and
 We then can represent each decryption key as one of many finite Markov states. In the belief of Monte Carlo Convergence theorem, there should be a point where probabilities are stationary to certain states. Those one will be fairly probable as the decryption key. A first degree of Markov Chain is expressed as follows, 
 
 $$
-\forall t, k, \quad  p\left(x_{t} \mid x_{t-1}\right)=p\left(x_{t+k} \mid x_{t-1+k}\right) 
+\forall t, k, \quad  p\left(x_{t} \mid x_{t-1}\right)=p\left(x_{t+k} \mid x_{t-1+k}\right)
 $$
 
 ##### Score Function
